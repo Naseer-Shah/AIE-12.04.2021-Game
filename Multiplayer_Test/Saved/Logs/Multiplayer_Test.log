@@ -1174,3 +1174,1317 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.12-05.31.22:083][401]LogSavePackage: Moving 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/SideScrollerCharacter3E755ABC4466F5286C141AAA4EB18A94.tmp' to 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
 [2021.04.12-05.31.22:095][401]AssetCheck: New page: Asset Save: SideScrollerCharacter
 [2021.04.12-05.31.22:095][401]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.04.12-05.52.31:173][420]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-05.52.31:187][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-05.52.31:187][420]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 1:52:31 am)
+[2021.04.12-05.52.31:226][420]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-05.52.31:238][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011987s)
+[2021.04.12-05.52.31:240][420]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-05.52.31:240][420]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3B2676C00), frame # 94420
+[2021.04.12-05.52.31:240][420]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C34D86BB00), frame # 94420
+[2021.04.12-05.52.31:240][420]LogPlayLevel: PIE: World Init took: (0.002475s)
+[2021.04.12-05.52.31:240][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.014655s)
+[2021.04.12-05.52.31:284][420]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.04.12-05.52.31:288][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-05.52.31:288][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-05.52.31:288][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-05.52.31:288][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-05.52.31:288][420]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-05.52.31:288][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-05.52.31:288][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-05.52.31:288][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-05.52.31:289][420]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-05.52.31:289][420]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-05.52.31:292][420]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-05.52.31:292][420]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-05.52.31:316][420]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-05.52.31:317][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-05.52.31:317][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-05.52.31:317][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-05.52.31:317][420]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-05.52.31:330][420]LogInit: FAudioDevice initialized.
+[2021.04.12-05.52.31:340][420]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-05.52.31:343][420]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-15.52.31
+[2021.04.12-05.52.31:343][420]LogWorld: Bringing up level for play took: 0.002495
+[2021.04.12-05.52.31:343][420]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.04.12-05.52.31:345][420]PIE: Server logged in
+[2021.04.12-05.52.31:346][420]PIE: Play in editor total start time 0.159 seconds.
+[2021.04.12-05.52.36:336][827]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'K2Node_MakeArray_Array' of length 4 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2021.04.12-05.52.36:336][827]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Blueprint:  SideScrollerCharacter Function:  Execute Ubergraph Side Scroller Character Graph:  EventGraph Node:  Set Visibility
+[2021.04.12-05.52.37:086][889]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'K2Node_MakeArray_Array' of length 4 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2021.04.12-05.52.37:086][889]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Blueprint:  SideScrollerCharacter Function:  Execute Ubergraph Side Scroller Character Graph:  EventGraph Node:  Set Visibility
+[2021.04.12-05.52.39:525][ 89]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'K2Node_MakeArray_Array' of length 4 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2021.04.12-05.52.39:525][ 89]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Blueprint:  SideScrollerCharacter Function:  Execute Ubergraph Side Scroller Character Graph:  EventGraph Node:  Set Visibility
+[2021.04.12-05.52.42:237][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-05.52.42:237][310]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-05.52.42:237][310]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-05.52.42:237][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-05.52.42:245][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-05.52.42:249][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-05.52.42:288][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-05.52.42:289][310]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C34D86BB00), frame # 95310
+[2021.04.12-05.52.42:289][310]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3B2676C00), frame # 95310
+[2021.04.12-05.52.42:292][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.04.12-05.52.42:430][311]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.04.12-05.52.43:801][391]LogSlate: Window 'Message Log' being destroyed
+[2021.04.12-05.52.43:811][391]LogSlate: Window 'Message Log' being destroyed
+[2021.04.12-05.53.04:741][912]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.04.12-05.53.04:803][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.04.12-05.53.05:807][976]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-05.53.05:818][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-05.53.05:818][976]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 1:53:05 am)
+[2021.04.12-05.53.05:818][976]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-05.53.05:831][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012668s)
+[2021.04.12-05.53.05:833][976]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-05.53.05:833][976]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C38AF96400), frame # 96976
+[2021.04.12-05.53.05:833][976]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C38A230A40), frame # 96976
+[2021.04.12-05.53.05:833][976]LogPlayLevel: PIE: World Init took: (0.002184s)
+[2021.04.12-05.53.05:833][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.015069s)
+[2021.04.12-05.53.05:872][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.04.12-05.53.05:873][976]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-05.53.05:873][976]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-05.53.05:873][976]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-05.53.05:873][976]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-05.53.05:873][976]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-05.53.05:873][976]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-05.53.05:873][976]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-05.53.05:873][976]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-05.53.05:874][976]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-05.53.05:874][976]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-05.53.05:876][976]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-05.53.05:876][976]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-05.53.05:893][976]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-05.53.05:894][976]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-05.53.05:894][976]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-05.53.05:894][976]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-05.53.05:894][976]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-05.53.05:904][976]LogInit: FAudioDevice initialized.
+[2021.04.12-05.53.05:913][976]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-05.53.05:915][976]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-15.53.05
+[2021.04.12-05.53.05:916][976]LogWorld: Bringing up level for play took: 0.002541
+[2021.04.12-05.53.05:916][976]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.04.12-05.53.05:917][976]PIE: Server logged in
+[2021.04.12-05.53.05:918][976]PIE: Play in editor total start time 0.101 seconds.
+[2021.04.12-05.53.10:996][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-05.53.10:996][385]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-05.53.10:996][385]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-05.53.10:996][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-05.53.11:007][385]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-05.53.11:011][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-05.53.11:049][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-05.53.11:050][385]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C38A230A40), frame # 97385
+[2021.04.12-05.53.11:050][385]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C38AF96400), frame # 97385
+[2021.04.12-05.53.11:053][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.04.12-05.53.11:087][386]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.04.12-05.53.25:865][460]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.04.12-05.53.25:926][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.04.12-05.53.28:520][641]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-05.53.28:530][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-05.53.28:530][641]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 1:53:28 am)
+[2021.04.12-05.53.28:556][641]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-05.53.28:567][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010555s)
+[2021.04.12-05.53.28:568][641]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-05.53.28:568][641]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3B61EFE00), frame # 98641
+[2021.04.12-05.53.28:568][641]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C3B26D9940), frame # 98641
+[2021.04.12-05.53.28:569][641]LogPlayLevel: PIE: World Init took: (0.001924s)
+[2021.04.12-05.53.28:569][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012680s)
+[2021.04.12-05.53.28:610][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.04.12-05.53.28:612][641]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-05.53.28:612][641]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-05.53.28:612][641]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-05.53.28:612][641]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-05.53.28:612][641]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-05.53.28:612][641]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-05.53.28:612][641]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-05.53.28:612][641]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-05.53.28:612][641]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-05.53.28:612][641]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-05.53.28:614][641]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-05.53.28:614][641]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-05.53.28:632][641]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-05.53.28:632][641]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-05.53.28:632][641]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-05.53.28:632][641]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-05.53.28:632][641]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-05.53.28:643][641]LogInit: FAudioDevice initialized.
+[2021.04.12-05.53.28:653][641]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-05.53.28:656][641]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-15.53.28
+[2021.04.12-05.53.28:656][641]LogWorld: Bringing up level for play took: 0.002475
+[2021.04.12-05.53.28:656][641]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.04.12-05.53.28:658][641]PIE: Server logged in
+[2021.04.12-05.53.28:659][641]PIE: Play in editor total start time 0.128 seconds.
+[2021.04.12-05.53.31:832][900]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'K2Node_MakeArray_Array' of length 4 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2021.04.12-05.53.31:832][900]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Blueprint:  SideScrollerCharacter Function:  Execute Ubergraph Side Scroller Character Graph:  EventGraph Node:  Set Visibility
+[2021.04.12-05.53.33:492][ 38]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'K2Node_MakeArray_Array' of length 4 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2021.04.12-05.53.33:492][ 38]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Blueprint:  SideScrollerCharacter Function:  Execute Ubergraph Side Scroller Character Graph:  EventGraph Node:  Set Visibility
+[2021.04.12-05.53.34:722][140]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'K2Node_MakeArray_Array' of length 4 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2021.04.12-05.53.34:722][140]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Blueprint:  SideScrollerCharacter Function:  Execute Ubergraph Side Scroller Character Graph:  EventGraph Node:  Set Visibility
+[2021.04.12-05.53.35:582][211]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'K2Node_MakeArray_Array' of length 4 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2021.04.12-05.53.35:582][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Blueprint:  SideScrollerCharacter Function:  Execute Ubergraph Side Scroller Character Graph:  EventGraph Node:  Set Visibility
+[2021.04.12-05.53.36:596][295]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'K2Node_MakeArray_Array' of length 4 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2021.04.12-05.53.36:596][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Blueprint:  SideScrollerCharacter Function:  Execute Ubergraph Side Scroller Character Graph:  EventGraph Node:  Set Visibility
+[2021.04.12-05.53.38:366][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-05.53.38:366][438]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-05.53.38:366][438]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-05.53.38:367][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-05.53.38:377][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-05.53.38:381][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-05.53.38:420][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-05.53.38:421][438]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C3B26D9940), frame # 99438
+[2021.04.12-05.53.38:421][438]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3B61EFE00), frame # 99438
+[2021.04.12-05.53.38:424][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.04.12-05.53.38:554][439]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.04.12-05.54.10:542][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.04.12-05.54.11:060][826]LogSavePackage: Moving 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/SideScrollerExampleMap_Auto19E1F492A4D90C8F1963B5D908E2B4D04.tmp' to 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2021.04.12-05.54.11:250][826]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.736
+[2021.04.12-05.54.11:250][826]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.736
+[2021.04.12-05.54.11:251][826]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2021.04.12-05.54.11:291][826]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2021.04.12-05.54.11:291][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2021.04.12-05.54.11:403][826]LogSavePackage: Moving 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/SideScrollerCharacter_Auto13548FA3B49C2406FB1F8F0B9C67A50B7.tmp' to 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto1.uasset'
+[2021.04.12-05.54.11:405][826]LogFileHelpers: Auto-saving content packages took 0.154
+[2021.04.12-05.54.50:201][898]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.04.12-05.54.50:259][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.04.12-05.54.51:003][952]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-05.54.51:015][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-05.54.51:015][952]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 1:54:51 am)
+[2021.04.12-05.54.51:015][952]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-05.54.51:026][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010832s)
+[2021.04.12-05.54.51:027][952]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-05.54.51:027][952]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3A7FE2600), frame # 104952
+[2021.04.12-05.54.51:028][952]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C3891BFD80), frame # 104952
+[2021.04.12-05.54.51:028][952]LogPlayLevel: PIE: World Init took: (0.001809s)
+[2021.04.12-05.54.51:028][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012831s)
+[2021.04.12-05.54.51:071][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.04.12-05.54.51:072][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-05.54.51:072][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-05.54.51:072][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-05.54.51:072][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-05.54.51:072][952]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-05.54.51:072][952]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-05.54.51:072][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-05.54.51:072][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-05.54.51:073][952]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-05.54.51:073][952]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-05.54.51:075][952]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-05.54.51:075][952]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-05.54.51:093][952]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-05.54.51:093][952]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-05.54.51:093][952]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-05.54.51:093][952]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-05.54.51:094][952]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-05.54.51:105][952]LogInit: FAudioDevice initialized.
+[2021.04.12-05.54.51:121][952]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-05.54.51:125][952]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-15.54.51
+[2021.04.12-05.54.51:126][952]LogWorld: Bringing up level for play took: 0.004061
+[2021.04.12-05.54.51:126][952]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.04.12-05.54.51:129][952]PIE: Server logged in
+[2021.04.12-05.54.51:129][952]PIE: Play in editor total start time 0.115 seconds.
+[2021.04.12-05.55.22:894][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-05.55.22:894][759]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-05.55.22:894][759]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-05.55.22:895][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-05.55.22:905][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-05.55.22:909][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-05.55.22:934][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-05.55.22:951][759]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C3891BFD80), frame # 107759
+[2021.04.12-05.55.22:951][759]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3A7FE2600), frame # 107759
+[2021.04.12-05.55.22:954][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.04.12-05.55.22:993][760]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.04.12-05.55.48:683][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-05.55.48:697][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-05.55.48:697][ 63]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 1:55:48 am)
+[2021.04.12-05.55.48:697][ 63]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-05.55.48:709][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011669s)
+[2021.04.12-05.55.48:711][ 63]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-05.55.48:711][ 63]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3327E8C00), frame # 110063
+[2021.04.12-05.55.48:711][ 63]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C3B26D82C0), frame # 110063
+[2021.04.12-05.55.48:711][ 63]LogPlayLevel: PIE: World Init took: (0.001823s)
+[2021.04.12-05.55.48:711][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013694s)
+[2021.04.12-05.55.48:748][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.04.12-05.55.48:752][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-05.55.48:752][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-05.55.48:752][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-05.55.48:752][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-05.55.48:752][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-05.55.48:752][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-05.55.48:752][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-05.55.48:752][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-05.55.48:753][ 63]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-05.55.48:753][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-05.55.48:755][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-05.55.48:755][ 63]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-05.55.48:773][ 63]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-05.55.48:774][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-05.55.48:774][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-05.55.48:774][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-05.55.48:774][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-05.55.48:785][ 63]LogInit: FAudioDevice initialized.
+[2021.04.12-05.55.48:791][ 63]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-05.55.48:794][ 63]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-15.55.48
+[2021.04.12-05.55.48:794][ 63]LogWorld: Bringing up level for play took: 0.002120
+[2021.04.12-05.55.48:794][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.04.12-05.55.48:796][ 63]PIE: Server logged in
+[2021.04.12-05.55.48:797][ 63]PIE: Play in editor total start time 0.101 seconds.
+[2021.04.12-05.55.54:400][553]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'K2Node_MakeArray_Array' of length 4 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2021.04.12-05.55.54:400][553]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Blueprint:  SideScrollerCharacter Function:  Execute Ubergraph Side Scroller Character Graph:  EventGraph Node:  Set Visibility
+[2021.04.12-05.55.55:952][689]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'K2Node_MakeArray_Array' of length 4 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2021.04.12-05.55.55:952][689]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Blueprint:  SideScrollerCharacter Function:  Execute Ubergraph Side Scroller Character Graph:  EventGraph Node:  Set Visibility
+[2021.04.12-05.55.57:355][812]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'K2Node_MakeArray_Array' of length 4 in '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C:ExecuteUbergraph_SideScrollerCharacter'!
+[2021.04.12-05.55.57:355][812]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Blueprint:  SideScrollerCharacter Function:  Execute Ubergraph Side Scroller Character Graph:  EventGraph Node:  Set Visibility
+[2021.04.12-05.56.02:915][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-05.56.02:915][292]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-05.56.02:915][292]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-05.56.02:915][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-05.56.02:922][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-05.56.02:926][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-05.56.02:951][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-05.56.02:966][292]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C3B26D82C0), frame # 111292
+[2021.04.12-05.56.02:966][292]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3327E8C00), frame # 111292
+[2021.04.12-05.56.02:969][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.04.12-05.56.03:048][293]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.04.12-05.56.04:506][390]LogSlate: Window 'Message Log' being destroyed
+[2021.04.12-05.56.04:515][390]LogSlate: Window 'Message Log' being destroyed
+[2021.04.12-05.58.26:026][ 44]LogEditorTransaction: Undo Create Pin Link
+[2021.04.12-05.58.26:558][ 55]LogEditorTransaction: Undo Delete current selection
+[2021.04.12-05.58.40:556][300]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.04.12-05.58.40:617][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.04.12-05.58.41:389][366]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-05.58.41:401][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-05.58.41:401][366]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 1:58:41 am)
+[2021.04.12-05.58.41:423][366]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-05.58.41:434][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011356s)
+[2021.04.12-05.58.41:436][366]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-05.58.41:436][366]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3548E1C00), frame # 125366
+[2021.04.12-05.58.41:436][366]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C38CB51940), frame # 125366
+[2021.04.12-05.58.41:436][366]LogPlayLevel: PIE: World Init took: (0.001934s)
+[2021.04.12-05.58.41:436][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013503s)
+[2021.04.12-05.58.41:472][366]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.04.12-05.58.41:473][366]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-05.58.41:473][366]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-05.58.41:473][366]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-05.58.41:473][366]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-05.58.41:473][366]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-05.58.41:473][366]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-05.58.41:473][366]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-05.58.41:473][366]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-05.58.41:474][366]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-05.58.41:474][366]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-05.58.41:476][366]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-05.58.41:476][366]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-05.58.41:494][366]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-05.58.41:494][366]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-05.58.41:495][366]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-05.58.41:495][366]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-05.58.41:495][366]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-05.58.41:507][366]LogInit: FAudioDevice initialized.
+[2021.04.12-05.58.41:515][366]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-05.58.41:519][366]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-15.58.41
+[2021.04.12-05.58.41:520][366]LogWorld: Bringing up level for play took: 0.003618
+[2021.04.12-05.58.41:520][366]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.04.12-05.58.41:522][366]PIE: Server logged in
+[2021.04.12-05.58.41:523][366]PIE: Play in editor total start time 0.123 seconds.
+[2021.04.12-05.58.50:143][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-05.58.50:143][246]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-05.58.50:143][246]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-05.58.50:144][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-05.58.50:150][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-05.58.50:154][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-05.58.50:194][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-05.58.50:195][246]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C38CB51940), frame # 126246
+[2021.04.12-05.58.50:195][246]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3548E1C00), frame # 126246
+[2021.04.12-05.58.50:198][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.04.12-05.58.50:231][247]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.04.12-05.59.15:783][562]LogEditorTransaction: Undo Move Node
+[2021.04.12-05.59.16:359][572]LogEditorTransaction: Undo Create Pin Link
+[2021.04.12-05.59.16:794][606]LogEditorTransaction: Undo Move Node
+[2021.04.12-05.59.17:247][645]LogEditorTransaction: Undo Delete current selection
+[2021.04.12-05.59.17:673][679]LogEditorTransaction: Undo Create Reroute Node
+[2021.04.12-05.59.18:336][739]LogEditorTransaction: Undo Create Pin Link
+[2021.04.12-06.00.46:631][295]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.04.12-06.00.46:638][295]LogBlueprint: Error: [Compiler SideScrollerCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.04.12-06.00.46:692][295]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.04.12-06.01.01:040][609]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.04.12-06.01.01:098][609]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.04.12-06.01.02:039][680]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.01.02:050][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.01.02:050][680]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:01:02 am)
+[2021.04.12-06.01.02:071][680]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.01.02:081][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010465s)
+[2021.04.12-06.01.02:083][680]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.01.02:083][680]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C39BCC0800), frame # 137680
+[2021.04.12-06.01.02:083][680]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C38B5356C0), frame # 137680
+[2021.04.12-06.01.02:083][680]LogPlayLevel: PIE: World Init took: (0.002143s)
+[2021.04.12-06.01.02:083][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012824s)
+[2021.04.12-06.01.02:126][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.04.12-06.01.02:128][680]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.01.02:128][680]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.01.02:128][680]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.01.02:128][680]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.01.02:128][680]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.01.02:128][680]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.01.02:128][680]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.01.02:128][680]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.01.02:129][680]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.01.02:129][680]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.01.02:131][680]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.01.02:131][680]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.01.02:150][680]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.01.02:150][680]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.01.02:150][680]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.01.02:150][680]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.01.02:150][680]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.01.02:161][680]LogInit: FAudioDevice initialized.
+[2021.04.12-06.01.02:177][680]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.01.02:181][680]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.01.02
+[2021.04.12-06.01.02:182][680]LogWorld: Bringing up level for play took: 0.004114
+[2021.04.12-06.01.02:182][680]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.04.12-06.01.02:184][680]PIE: Server logged in
+[2021.04.12-06.01.02:185][680]PIE: Play in editor total start time 0.136 seconds.
+[2021.04.12-06.01.07:520][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.01.07:521][169]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.01.07:521][169]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.01.07:521][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.01.07:528][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.01.07:532][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.01.07:572][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.01.07:573][169]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C38B5356C0), frame # 138169
+[2021.04.12-06.01.07:573][169]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C39BCC0800), frame # 138169
+[2021.04.12-06.01.07:576][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.04.12-06.01.07:604][170]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.04.12-06.01.14:299][786]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.04.12-06.01.14:356][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.04.12-06.01.14:998][835]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.01.15:261][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.01.15:262][835]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:01:15 am)
+[2021.04.12-06.01.15:262][835]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.01.15:290][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028252s)
+[2021.04.12-06.01.15:294][835]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.01.15:294][835]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C38AF5A600), frame # 138835
+[2021.04.12-06.01.15:294][835]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C38A718540), frame # 138835
+[2021.04.12-06.01.15:295][835]LogPlayLevel: PIE: World Init took: (0.004248s)
+[2021.04.12-06.01.15:295][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.032874s)
+[2021.04.12-06.01.15:338][835]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.04.12-06.01.15:340][835]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.01.15:340][835]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.01.15:340][835]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.01.15:340][835]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.01.15:340][835]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.01.15:340][835]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.01.15:340][835]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.01.15:340][835]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.01.15:341][835]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.01.15:341][835]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.01.15:343][835]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.01.15:343][835]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.01.15:361][835]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.01.15:361][835]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.01.15:361][835]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.01.15:361][835]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.01.15:362][835]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.01.15:372][835]LogInit: FAudioDevice initialized.
+[2021.04.12-06.01.15:385][835]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.01.15:389][835]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.01.15
+[2021.04.12-06.01.15:390][835]LogWorld: Bringing up level for play took: 0.003519
+[2021.04.12-06.01.15:390][835]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.04.12-06.01.15:392][835]PIE: Server logged in
+[2021.04.12-06.01.15:393][835]PIE: Play in editor total start time 0.134 seconds.
+[2021.04.12-06.01.20:691][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.01.20:691][338]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.01.20:691][338]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.01.20:692][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.01.20:699][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.01.20:704][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.01.20:743][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.01.20:744][338]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C38A718540), frame # 139338
+[2021.04.12-06.01.20:744][338]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C38AF5A600), frame # 139338
+[2021.04.12-06.01.20:747][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.04.12-06.01.20:983][339]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.04.12-06.02.10:801][397]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.04.12-06.02.10:862][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.04.12-06.02.11:494][434]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.02.11:504][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.02.11:504][434]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:02:11 am)
+[2021.04.12-06.02.11:530][434]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.02.11:542][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011503s)
+[2021.04.12-06.02.11:543][434]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.02.11:543][434]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3AA97A400), frame # 143434
+[2021.04.12-06.02.11:543][434]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C39B39C7C0), frame # 143434
+[2021.04.12-06.02.11:544][434]LogPlayLevel: PIE: World Init took: (0.001708s)
+[2021.04.12-06.02.11:544][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013436s)
+[2021.04.12-06.02.11:584][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.04.12-06.02.11:586][434]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.02.11:586][434]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.02.11:586][434]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.02.11:586][434]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.02.11:586][434]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.02.11:586][434]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.02.11:586][434]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.02.11:586][434]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.02.11:587][434]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.02.11:587][434]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.02.11:589][434]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.02.11:589][434]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.02.11:607][434]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.02.11:608][434]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.02.11:608][434]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.02.11:608][434]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.02.11:608][434]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.02.11:619][434]LogInit: FAudioDevice initialized.
+[2021.04.12-06.02.11:630][434]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.02.11:634][434]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.02.11
+[2021.04.12-06.02.11:634][434]LogWorld: Bringing up level for play took: 0.003338
+[2021.04.12-06.02.11:634][434]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.04.12-06.02.11:637][434]PIE: Server logged in
+[2021.04.12-06.02.11:637][434]PIE: Play in editor total start time 0.134 seconds.
+[2021.04.12-06.02.19:191][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.02.19:191][ 78]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.02.19:191][ 78]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.02.19:191][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.02.19:201][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.02.19:204][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.02.19:245][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.02.19:246][ 78]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C39B39C7C0), frame # 144078
+[2021.04.12-06.02.19:246][ 78]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3AA97A400), frame # 144078
+[2021.04.12-06.02.19:248][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.04.12-06.02.19:286][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.04.12-06.02.24:585][476]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.04.12-06.02.24:644][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.04.12-06.02.25:248][518]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.02.25:258][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.02.25:258][518]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:02:25 am)
+[2021.04.12-06.02.25:259][518]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.02.25:270][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011577s)
+[2021.04.12-06.02.25:272][518]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.02.25:272][518]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C38C0B7A00), frame # 144518
+[2021.04.12-06.02.25:272][518]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C332B27EC0), frame # 144518
+[2021.04.12-06.02.25:272][518]LogPlayLevel: PIE: World Init took: (0.001860s)
+[2021.04.12-06.02.25:272][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013600s)
+[2021.04.12-06.02.25:307][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.04.12-06.02.25:309][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.02.25:309][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.02.25:309][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.02.25:309][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.02.25:309][518]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.02.25:309][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.02.25:309][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.02.25:309][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.02.25:310][518]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.02.25:310][518]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.02.25:312][518]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.02.25:312][518]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.02.25:329][518]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.02.25:329][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.02.25:329][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.02.25:329][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.02.25:330][518]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.02.25:340][518]LogInit: FAudioDevice initialized.
+[2021.04.12-06.02.25:359][518]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.02.25:363][518]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.02.25
+[2021.04.12-06.02.25:364][518]LogWorld: Bringing up level for play took: 0.003939
+[2021.04.12-06.02.25:364][518]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.04.12-06.02.25:366][518]PIE: Server logged in
+[2021.04.12-06.02.25:367][518]PIE: Play in editor total start time 0.109 seconds.
+[2021.04.12-06.02.28:291][753]LogBlueprintUserMessages: [SideScrollerCharacter_9] 0
+[2021.04.12-06.02.28:505][771]LogBlueprintUserMessages: [SideScrollerCharacter_9] 1
+[2021.04.12-06.02.28:693][787]LogBlueprintUserMessages: [SideScrollerCharacter_9] 2
+[2021.04.12-06.02.28:894][804]LogBlueprintUserMessages: [SideScrollerCharacter_9] 3
+[2021.04.12-06.02.29:092][821]LogBlueprintUserMessages: [SideScrollerCharacter_9] 0
+[2021.04.12-06.02.29:330][841]LogBlueprintUserMessages: [SideScrollerCharacter_9] 1
+[2021.04.12-06.02.29:545][859]LogBlueprintUserMessages: [SideScrollerCharacter_9] 2
+[2021.04.12-06.02.29:757][877]LogBlueprintUserMessages: [SideScrollerCharacter_9] 3
+[2021.04.12-06.02.29:967][895]LogBlueprintUserMessages: [SideScrollerCharacter_9] 0
+[2021.04.12-06.02.30:167][912]LogBlueprintUserMessages: [SideScrollerCharacter_9] 1
+[2021.04.12-06.02.30:392][931]LogBlueprintUserMessages: [SideScrollerCharacter_9] 2
+[2021.04.12-06.02.30:604][949]LogBlueprintUserMessages: [SideScrollerCharacter_9] 3
+[2021.04.12-06.02.30:818][967]LogBlueprintUserMessages: [SideScrollerCharacter_9] 0
+[2021.04.12-06.02.31:088][990]LogBlueprintUserMessages: [SideScrollerCharacter_9] 1
+[2021.04.12-06.02.31:812][ 53]LogBlueprintUserMessages: [SideScrollerCharacter_9] 2
+[2021.04.12-06.02.32:113][ 78]LogBlueprintUserMessages: [SideScrollerCharacter_9] 3
+[2021.04.12-06.02.32:490][111]LogBlueprintUserMessages: [SideScrollerCharacter_9] 0
+[2021.04.12-06.02.44:341][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.02.44:341][127]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.02.44:341][127]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.02.44:341][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.02.44:348][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.02.44:351][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.02.44:392][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.02.44:393][127]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C332B27EC0), frame # 146127
+[2021.04.12-06.02.44:393][127]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C38C0B7A00), frame # 146127
+[2021.04.12-06.02.44:396][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.04.12-06.02.44:431][128]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.04.12-06.04.25:067][479]LogEditorTransaction: Undo Delete current selection
+[2021.04.12-06.04.31:254][936]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.04.12-06.04.31:317][936]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.04.12-06.04.31:920][981]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.04.31:931][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.04.31:931][981]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:04:31 am)
+[2021.04.12-06.04.31:931][981]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.04.31:942][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011112s)
+[2021.04.12-06.04.31:944][981]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.04.31:944][981]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C38AA76E00), frame # 154981
+[2021.04.12-06.04.31:944][981]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C3B81ED6C0), frame # 154981
+[2021.04.12-06.04.31:944][981]LogPlayLevel: PIE: World Init took: (0.001877s)
+[2021.04.12-06.04.31:944][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013164s)
+[2021.04.12-06.04.31:983][981]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.04.12-06.04.31:984][981]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.04.31:984][981]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.04.31:984][981]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.04.31:984][981]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.04.31:984][981]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.04.31:984][981]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.04.31:984][981]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.04.31:984][981]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.04.31:985][981]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.04.31:985][981]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.04.31:987][981]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.04.31:987][981]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.04.32:005][981]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.04.32:005][981]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.04.32:005][981]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.04.32:005][981]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.04.32:006][981]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.04.32:016][981]LogInit: FAudioDevice initialized.
+[2021.04.12-06.04.32:028][981]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.04.32:032][981]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.04.32
+[2021.04.12-06.04.32:032][981]LogWorld: Bringing up level for play took: 0.003561
+[2021.04.12-06.04.32:033][981]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.04.12-06.04.32:035][981]PIE: Server logged in
+[2021.04.12-06.04.32:036][981]PIE: Play in editor total start time 0.105 seconds.
+[2021.04.12-06.04.41:679][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.04.41:679][821]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.04.41:680][821]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.04.41:680][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.04.41:689][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.04.41:692][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.04.41:733][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.04.41:734][821]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C3B81ED6C0), frame # 155821
+[2021.04.12-06.04.41:734][821]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C38AA76E00), frame # 155821
+[2021.04.12-06.04.41:737][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.04.12-06.04.41:769][822]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.04.12-06.04.45:736][133]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.04.12-06.04.45:795][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.04.12-06.04.46:530][181]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.04.46:540][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.04.46:541][181]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:04:46 am)
+[2021.04.12-06.04.46:541][181]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.04.46:552][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011393s)
+[2021.04.12-06.04.46:554][181]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.04.46:554][181]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3B329B000), frame # 156181
+[2021.04.12-06.04.46:554][181]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C38CD40F40), frame # 156181
+[2021.04.12-06.04.46:554][181]LogPlayLevel: PIE: World Init took: (0.001756s)
+[2021.04.12-06.04.46:554][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013299s)
+[2021.04.12-06.04.46:593][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.04.12-06.04.46:595][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.04.46:595][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.04.46:595][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.04.46:595][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.04.46:595][181]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.04.46:595][181]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.04.46:595][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.04.46:595][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.04.46:595][181]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.04.46:595][181]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.04.46:597][181]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.04.46:597][181]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.04.46:615][181]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.04.46:615][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.04.46:615][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.04.46:615][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.04.46:615][181]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.04.46:627][181]LogInit: FAudioDevice initialized.
+[2021.04.12-06.04.46:643][181]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.04.46:646][181]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.04.46
+[2021.04.12-06.04.46:647][181]LogWorld: Bringing up level for play took: 0.003442
+[2021.04.12-06.04.46:647][181]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.04.12-06.04.46:649][181]PIE: Server logged in
+[2021.04.12-06.04.46:650][181]PIE: Play in editor total start time 0.11 seconds.
+[2021.04.12-06.05.09:089][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.05.09:089][190]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.05.09:089][190]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.05.09:090][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.05.09:099][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.05.09:103][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.05.09:144][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.05.09:144][190]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C38CD40F40), frame # 158190
+[2021.04.12-06.05.09:144][190]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3B329B000), frame # 158190
+[2021.04.12-06.05.09:147][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.04.12-06.05.09:182][191]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.04.12-06.06.16:399][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.04.12-06.06.16:948][ 97]LogSavePackage: Moving 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/SideScrollerExampleMap_Auto2B152EBEA4056770C94659CB76E8EF028.tmp' to 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto2.umap'
+[2021.04.12-06.06.17:202][ 97]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.830
+[2021.04.12-06.06.17:202][ 97]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.830
+[2021.04.12-06.06.17:203][ 97]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2021.04.12-06.06.17:239][ 97]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2021.04.12-06.06.17:239][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2021.04.12-06.06.17:413][ 97]LogSavePackage: Moving 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/SideScrollerCharacter_Auto21FACB24046226041E530828A934F7B89.tmp' to 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto2.uasset'
+[2021.04.12-06.06.17:415][ 97]LogFileHelpers: Auto-saving content packages took 0.213
+[2021.04.12-06.06.17:482][ 99]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Wall3)
+[2021.04.12-06.06.18:320][170]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter2)
+[2021.04.12-06.06.19:196][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2021.04.12-06.10.13:222][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2021.04.12-06.10.14:110][672]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.10.14:121][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.10.14:121][672]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:10:14 am)
+[2021.04.12-06.10.14:122][672]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.10.14:134][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011845s)
+[2021.04.12-06.10.14:135][672]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.10.14:135][672]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3BD2FBC00), frame # 167672
+[2021.04.12-06.10.14:135][672]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C34D999580), frame # 167672
+[2021.04.12-06.10.14:135][672]LogPlayLevel: PIE: World Init took: (0.001287s)
+[2021.04.12-06.10.14:135][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013285s)
+[2021.04.12-06.10.14:169][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.04.12-06.10.14:173][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.10.14:173][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.10.14:173][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.10.14:173][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.10.14:173][672]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.10.14:173][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.10.14:173][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.10.14:173][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.10.14:173][672]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.10.14:173][672]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.10.14:176][672]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.10.14:176][672]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.10.14:195][672]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.10.14:196][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.10.14:196][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.10.14:196][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.10.14:196][672]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.10.14:207][672]LogInit: FAudioDevice initialized.
+[2021.04.12-06.10.14:214][672]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.10.14:217][672]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.10.14
+[2021.04.12-06.10.14:218][672]LogWorld: Bringing up level for play took: 0.002964
+[2021.04.12-06.10.14:218][672]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.04.12-06.10.14:220][672]PIE: Server logged in
+[2021.04.12-06.10.14:221][672]PIE: Play in editor total start time 0.1 seconds.
+[2021.04.12-06.10.17:906][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.10.17:906][978]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.10.17:906][978]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.10.17:907][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.10.17:916][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.10.17:920][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.10.17:960][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.10.17:960][978]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C34D999580), frame # 167978
+[2021.04.12-06.10.17:960][978]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3BD2FBC00), frame # 167978
+[2021.04.12-06.10.17:963][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.04.12-06.10.17:997][979]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.04.12-06.10.18:834][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2021.04.12-06.10.18:893][ 48]LogEditorViewport: Clicking on Actor (double click): SideScrollerCharacter_C (SideScrollerCharacter2)
+[2021.04.12-06.10.19:411][ 86]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter2)
+[2021.04.12-06.10.19:469][ 89]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2021.04.12-06.10.42:494][874]LogRenderer: Reallocating scene render targets to support 1052x688 Format 10 NumSamples 1 (Frame:1).
+[2021.04.12-06.10.47:602][258]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.12-06.10.51:051][521]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.10.51:063][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.10.51:063][521]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:10:51 am)
+[2021.04.12-06.10.51:064][521]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.10.51:074][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010660s)
+[2021.04.12-06.10.51:076][521]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.10.51:076][521]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3D4D2CA00), frame # 170521
+[2021.04.12-06.10.51:076][521]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C332B38180), frame # 170521
+[2021.04.12-06.10.51:077][521]LogPlayLevel: PIE: World Init took: (0.002322s)
+[2021.04.12-06.10.51:077][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013158s)
+[2021.04.12-06.10.51:113][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.04.12-06.10.51:116][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.10.51:116][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.10.51:116][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.10.51:116][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.10.51:116][521]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.10.51:116][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.10.51:116][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.10.51:116][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.10.51:116][521]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.10.51:116][521]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.10.51:118][521]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.10.51:118][521]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.10.51:136][521]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.10.51:136][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.10.51:136][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.10.51:136][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.10.51:136][521]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.10.51:147][521]LogInit: FAudioDevice initialized.
+[2021.04.12-06.10.51:155][521]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.10.51:158][521]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.10.51
+[2021.04.12-06.10.51:159][521]LogWorld: Bringing up level for play took: 0.002987
+[2021.04.12-06.10.51:159][521]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.04.12-06.10.51:161][521]PIE: Server logged in
+[2021.04.12-06.10.51:162][521]PIE: Play in editor total start time 0.1 seconds.
+[2021.04.12-06.11.01:125][474]LogCharacterMovement: SideScrollerCharacter_9 is stuck and failed to move! Velocity: X=0.00 Y=20.93 Z=0.00 Location: X=1240.00 Y=-110.43 Z=206.00 Normal: X=-0.00 Y=-0.81 Z=0.59 PenetrationDepth:28.796 Actor:Block_C_7 Component:StaticMesh BoneName:None (0 other events since notify)
+[2021.04.12-06.11.02:131][570]LogCharacterMovement: SideScrollerCharacter_9 is stuck and failed to move! Velocity: X=0.00 Y=-392.71 Z=0.00 Location: X=1240.00 Y=-110.43 Z=206.00 Normal: X=-0.00 Y=0.81 Z=0.59 PenetrationDepth:28.787 Actor:Block_C_6 Component:StaticMesh BoneName:None (95 other events since notify)
+[2021.04.12-06.11.35:576][818]LogCharacterMovement: SideScrollerCharacter_9 is stuck and failed to move! Velocity: X=0.00 Y=53.07 Z=0.00 Location: X=1240.00 Y=-173.08 Z=657.41 Normal: X=-0.00 Y=0.79 Z=0.62 PenetrationDepth:19.446 Actor:Block_C_12 Component:StaticMesh BoneName:None (7 other events since notify)
+[2021.04.12-06.12.00:316][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.12.00:316][225]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.12.00:316][225]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.12.00:317][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.12.00:359][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.12.00:368][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.12.00:422][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.12.00:442][225]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C332B38180), frame # 177225
+[2021.04.12-06.12.00:442][225]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3D4D2CA00), frame # 177225
+[2021.04.12-06.12.00:445][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.04.12-06.12.00:721][226]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.04.12-06.15.12:491][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2021.04.12-06.15.13:762][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2021.04.12-06.15.14:259][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2021.04.12-06.15.15:406][801]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.15.15:416][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.15.15:416][801]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:15:15 am)
+[2021.04.12-06.15.15:442][801]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.15.15:454][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011695s)
+[2021.04.12-06.15.15:456][801]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.15.15:456][801]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3D4DDCE00), frame # 178801
+[2021.04.12-06.15.15:456][801]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C3B8203740), frame # 178801
+[2021.04.12-06.15.15:456][801]LogPlayLevel: PIE: World Init took: (0.001912s)
+[2021.04.12-06.15.15:456][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013836s)
+[2021.04.12-06.15.15:496][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.04.12-06.15.15:499][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.15.15:499][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.15.15:499][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.15.15:499][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.15.15:499][801]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.15.15:499][801]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.15.15:499][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.15.15:499][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.15.15:500][801]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.15.15:500][801]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.15.15:502][801]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.15.15:502][801]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.15.15:522][801]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.15.15:522][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.15.15:522][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.15.15:522][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.15.15:522][801]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.15.15:532][801]LogInit: FAudioDevice initialized.
+[2021.04.12-06.15.15:538][801]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.15.15:541][801]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.15.15
+[2021.04.12-06.15.15:541][801]LogWorld: Bringing up level for play took: 0.002230
+[2021.04.12-06.15.15:541][801]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.04.12-06.15.15:543][801]PIE: Server logged in
+[2021.04.12-06.15.15:544][801]PIE: Play in editor total start time 0.128 seconds.
+[2021.04.12-06.15.21:339][353]LogCharacterMovement: SideScrollerCharacter_9 is stuck and failed to move! Velocity: X=0.00 Y=-21.04 Z=0.00 Location: X=1240.00 Y=513.76 Z=303.53 Normal: X=0.00 Y=1.00 Z=-0.07 PenetrationDepth:8.349 Actor:Block_C_1 Component:StaticMesh BoneName:None (0 other events since notify)
+[2021.04.12-06.15.35:553][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.15.35:553][707]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.15.35:553][707]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.15.35:554][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.15.35:582][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.15.35:593][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.15.35:664][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.15.35:665][707]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C3B8203740), frame # 180707
+[2021.04.12-06.15.35:665][707]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3D4DDCE00), frame # 180707
+[2021.04.12-06.15.35:668][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.04.12-06.15.36:167][708]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.04.12-06.15.59:050][610]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.12-06.15.59:928][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.04.12-06.16.00:119][674]LogSavePackage: Moving 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/SideScrollerExampleMapAC8E2E70446E68D89D0B558B4757A8CB.tmp' to 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.04.12-06.16.00:317][674]AssetCheck: New page: Asset Save: SideScrollerExampleMap
+[2021.04.12-06.16.00:317][674]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.04.12-06.16.00:914][720]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.16.00:925][720]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.12-06.16.00:925][720]LogPlayLevel: [PlayLevel] Compiling SideScrollerCharacter before play...
+[2021.04.12-06.16.00:997][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.04.12-06.16.00:998][720]LogPlayLevel: PlayLevel: Blueprint regeneration took 73 ms (1 blueprints)
+[2021.04.12-06.16.00:998][720]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:16:00 am)
+[2021.04.12-06.16.00:998][720]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.16.01:009][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010932s)
+[2021.04.12-06.16.01:011][720]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.16.01:011][720]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C38B247E00), frame # 182720
+[2021.04.12-06.16.01:011][720]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C3B7EFC2C0), frame # 182720
+[2021.04.12-06.16.01:011][720]LogPlayLevel: PIE: World Init took: (0.001640s)
+[2021.04.12-06.16.01:011][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012740s)
+[2021.04.12-06.16.01:046][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.04.12-06.16.01:047][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.16.01:047][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.16.01:047][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.16.01:047][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.16.01:047][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.16.01:047][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.16.01:047][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.16.01:047][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.16.01:048][720]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.16.01:048][720]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.16.01:050][720]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.16.01:050][720]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.16.01:067][720]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.16.01:068][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.16.01:068][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.16.01:068][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.16.01:068][720]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.16.01:078][720]LogInit: FAudioDevice initialized.
+[2021.04.12-06.16.01:087][720]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.16.01:090][720]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.16.01
+[2021.04.12-06.16.01:090][720]LogWorld: Bringing up level for play took: 0.002126
+[2021.04.12-06.16.01:090][720]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.04.12-06.16.01:092][720]PIE: Server logged in
+[2021.04.12-06.16.01:092][720]PIE: Play in editor total start time 0.168 seconds.
+[2021.04.12-06.16.08:843][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.16.08:843][460]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.16.08:844][460]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.16.08:844][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.16.08:854][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.16.08:857][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.16.08:882][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.16.08:898][460]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C3B7EFC2C0), frame # 183460
+[2021.04.12-06.16.08:898][460]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C38B247E00), frame # 183460
+[2021.04.12-06.16.08:901][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.04.12-06.16.08:953][461]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.04.12-06.16.43:986][395]LogEditorTransaction: Undo Modify Component(s)
+[2021.04.12-06.17.37:942][952]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.04.12-06.17.38:002][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.04.12-06.17.38:749][  3]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.17.38:761][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.17.38:761][  3]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:17:38 am)
+[2021.04.12-06.17.38:761][  3]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.17.38:771][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010649s)
+[2021.04.12-06.17.38:773][  3]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.17.38:773][  3]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C397B94E00), frame # 191003
+[2021.04.12-06.17.38:773][  3]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C38A5F5440), frame # 191003
+[2021.04.12-06.17.38:773][  3]LogPlayLevel: PIE: World Init took: (0.001455s)
+[2021.04.12-06.17.38:773][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012261s)
+[2021.04.12-06.17.38:813][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.04.12-06.17.38:815][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.17.38:815][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.17.38:815][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.17.38:815][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.17.38:815][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.17.38:815][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.17.38:815][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.17.38:815][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.17.38:815][  3]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.17.38:815][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.17.38:818][  3]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.17.38:818][  3]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.17.38:837][  3]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.17.38:837][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.17.38:837][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.17.38:837][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.17.38:838][  3]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.17.38:838][  3]LogInit: FAudioDevice initialized.
+[2021.04.12-06.17.38:861][  3]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.17.38:865][  3]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.17.38
+[2021.04.12-06.17.38:866][  3]LogWorld: Bringing up level for play took: 0.003669
+[2021.04.12-06.17.38:866][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.04.12-06.17.38:868][  3]PIE: Server logged in
+[2021.04.12-06.17.38:869][  3]PIE: Play in editor total start time 0.109 seconds.
+[2021.04.12-06.18.33:431][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.18.33:432][271]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.18.33:432][271]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.18.33:432][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.18.33:444][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.18.33:448][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.18.33:471][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.18.33:488][271]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C38A5F5440), frame # 196271
+[2021.04.12-06.18.33:488][271]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C397B94E00), frame # 196271
+[2021.04.12-06.18.33:490][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.04.12-06.18.33:552][272]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.04.12-06.18.50:197][744]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.04.12-06.18.51:134][809]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.18.51:144][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.18.51:144][809]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:18:51 am)
+[2021.04.12-06.18.51:144][809]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.18.51:155][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011054s)
+[2021.04.12-06.18.51:157][809]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.18.51:157][809]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3C2C23E00), frame # 197809
+[2021.04.12-06.18.51:157][809]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C389C9CCC0), frame # 197809
+[2021.04.12-06.18.51:158][809]LogPlayLevel: PIE: World Init took: (0.002068s)
+[2021.04.12-06.18.51:158][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013285s)
+[2021.04.12-06.18.51:193][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.04.12-06.18.51:196][809]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.18.51:196][809]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.18.51:196][809]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.18.51:196][809]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.18.51:196][809]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.18.51:196][809]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.18.51:196][809]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.18.51:196][809]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.18.51:196][809]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.18.51:196][809]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.18.51:198][809]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.18.51:198][809]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.18.51:216][809]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.18.51:217][809]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.18.51:217][809]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.18.51:217][809]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.18.51:217][809]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.18.51:228][809]LogInit: FAudioDevice initialized.
+[2021.04.12-06.18.51:235][809]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.18.51:238][809]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.18.51
+[2021.04.12-06.18.51:238][809]LogWorld: Bringing up level for play took: 0.002339
+[2021.04.12-06.18.51:238][809]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.04.12-06.18.51:240][809]PIE: Server logged in
+[2021.04.12-06.18.51:241][809]PIE: Play in editor total start time 0.097 seconds.
+[2021.04.12-06.18.52:931][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.18.52:931][961]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.18.52:931][961]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.18.52:932][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.18.52:938][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.18.52:942][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.18.52:982][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.18.52:982][961]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C389C9CCC0), frame # 197961
+[2021.04.12-06.18.52:982][961]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3C2C23E00), frame # 197961
+[2021.04.12-06.18.52:985][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.04.12-06.18.53:046][962]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.04.12-06.18.54:255][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.18.54:266][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.18.54:266][ 59]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:18:54 am)
+[2021.04.12-06.18.54:266][ 59]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.18.54:277][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011246s)
+[2021.04.12-06.18.54:278][ 59]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.18.54:278][ 59]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3B2508A00), frame # 198059
+[2021.04.12-06.18.54:278][ 59]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C3A80EF100), frame # 198059
+[2021.04.12-06.18.54:279][ 59]LogPlayLevel: PIE: World Init took: (0.001524s)
+[2021.04.12-06.18.54:279][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012941s)
+[2021.04.12-06.18.54:311][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.04.12-06.18.54:313][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.18.54:313][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.18.54:313][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.18.54:313][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.18.54:313][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.18.54:313][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.18.54:313][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.18.54:313][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.18.54:314][ 59]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.18.54:314][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.18.54:316][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.18.54:316][ 59]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.18.54:333][ 59]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.18.54:333][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.18.54:333][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.18.54:333][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.18.54:334][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.18.54:344][ 59]LogInit: FAudioDevice initialized.
+[2021.04.12-06.18.54:354][ 59]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.18.54:358][ 59]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.18.54
+[2021.04.12-06.18.54:358][ 59]LogWorld: Bringing up level for play took: 0.002811
+[2021.04.12-06.18.54:358][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.04.12-06.18.54:361][ 59]PIE: Server logged in
+[2021.04.12-06.18.54:362][ 59]PIE: Play in editor total start time 0.097 seconds.
+[2021.04.12-06.19.14:142][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.19.14:142][920]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.19.14:142][920]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.19.14:142][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.19.14:153][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.19.14:158][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.19.14:183][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.19.14:199][920]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C3A80EF100), frame # 199920
+[2021.04.12-06.19.14:200][920]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3B2508A00), frame # 199920
+[2021.04.12-06.19.14:203][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.04.12-06.19.14:310][921]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.04.12-06.19.26:560][941]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter2)
+[2021.04.12-06.19.26:642][943]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2021.04.12-06.19.26:897][962]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2021.04.12-06.19.27:651][ 26]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2021.04.12-06.19.27:740][ 32]LogEditorViewport: Clicking on Actor (double click): SideScrollerCharacter_C (SideScrollerCharacter2)
+[2021.04.12-06.19.34:921][539]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/Player_BP.Player_BP
+[2021.04.12-06.27.24:228][951]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.04.12-06.27.24:801][951]LogSavePackage: Moving 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/SideScrollerExampleMap_Auto3DC38E4994B25B0CBB4F8A08FC374BF63.tmp' to 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto3.umap'
+[2021.04.12-06.27.24:984][951]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.796
+[2021.04.12-06.27.24:984][951]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.796
+[2021.04.12-06.27.24:984][951]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2021.04.12-06.27.25:015][951]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2021.04.12-06.27.25:015][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2021.04.12-06.27.25:112][951]LogSavePackage: Moving 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/SideScrollerCharacter_Auto3B47042DC4D1CD113776D6A8227F30D4C.tmp' to 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto3.uasset'
+[2021.04.12-06.27.25:114][951]LogFileHelpers: Auto-saving content packages took 0.130
+[2021.04.12-06.35.39:803][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2021.04.12-06.35.40:994][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.04.12-06.35.41:303][569]LogSavePackage: Moving 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/SideScrollerExampleMap110D2E504CC54A14750B4688544ADACA.tmp' to 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.04.12-06.35.41:398][569]AssetCheck: New page: Asset Save: SideScrollerExampleMap
+[2021.04.12-06.35.41:398][569]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.04.12-06.35.42:739][675]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.35.42:749][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.35.42:749][675]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:35:42 am)
+[2021.04.12-06.35.42:781][675]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.35.42:792][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011035s)
+[2021.04.12-06.35.42:794][675]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.35.42:794][675]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3BC881400), frame # 224675
+[2021.04.12-06.35.42:794][675]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C38DD18540), frame # 224675
+[2021.04.12-06.35.42:795][675]LogPlayLevel: PIE: World Init took: (0.001992s)
+[2021.04.12-06.35.42:795][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013284s)
+[2021.04.12-06.35.42:834][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.04.12-06.35.42:837][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.35.42:837][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.35.42:837][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.35.42:837][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.35.42:837][675]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.35.42:837][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.35.42:837][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.35.42:837][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.35.42:838][675]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.35.42:838][675]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.35.42:840][675]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.35.42:840][675]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.35.42:860][675]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.35.42:860][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.35.42:860][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.35.42:860][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.35.42:861][675]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.35.42:872][675]LogInit: FAudioDevice initialized.
+[2021.04.12-06.35.42:880][675]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.35.42:883][675]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.35.42
+[2021.04.12-06.35.42:883][675]LogWorld: Bringing up level for play took: 0.002621
+[2021.04.12-06.35.42:884][675]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.04.12-06.35.42:885][675]PIE: Server logged in
+[2021.04.12-06.35.42:886][675]PIE: Play in editor total start time 0.137 seconds.
+[2021.04.12-06.35.57:642][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.35.57:642][ 49]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.35.57:643][ 49]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.35.57:643][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.35.57:657][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.35.57:661][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.35.57:703][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.35.57:703][ 49]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C38DD18540), frame # 226049
+[2021.04.12-06.35.57:703][ 49]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3BC881400), frame # 226049
+[2021.04.12-06.35.57:706][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.04.12-06.35.57:865][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.04.12-06.36.20:292][944]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.12-06.36.20:886][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.04.12-06.36.20:959][985]LogSavePackage: Moving 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/SideScrollerExampleMapB5CAC70847181FC05D6F2B83151E1096.tmp' to 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.04.12-06.36.21:112][985]AssetCheck: New page: Asset Save: SideScrollerExampleMap
+[2021.04.12-06.36.21:112][985]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.04.12-06.36.21:863][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.36.21:874][ 47]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.12-06.36.21:875][ 47]LogPlayLevel: [PlayLevel] Compiling SideScrollerCharacter before play...
+[2021.04.12-06.36.21:957][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.04.12-06.36.21:958][ 47]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (1 blueprints)
+[2021.04.12-06.36.21:958][ 47]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:36:21 am)
+[2021.04.12-06.36.21:991][ 47]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.36.22:002][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010464s)
+[2021.04.12-06.36.22:003][ 47]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.36.22:003][ 47]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3AA8E9A00), frame # 228047
+[2021.04.12-06.36.22:003][ 47]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C3E7C9FD80), frame # 228047
+[2021.04.12-06.36.22:003][ 47]LogPlayLevel: PIE: World Init took: (0.001498s)
+[2021.04.12-06.36.22:003][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012134s)
+[2021.04.12-06.36.22:045][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.04.12-06.36.22:046][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.36.22:046][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.36.22:046][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.36.22:046][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.36.22:046][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.36.22:046][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.36.22:046][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.36.22:046][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.36.22:047][ 47]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.36.22:047][ 47]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.36.22:049][ 47]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.36.22:049][ 47]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.36.22:067][ 47]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.36.22:067][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.36.22:067][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.36.22:068][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.36.22:068][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.36.22:080][ 47]LogInit: FAudioDevice initialized.
+[2021.04.12-06.36.22:086][ 47]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.36.22:089][ 47]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.36.22
+[2021.04.12-06.36.22:089][ 47]LogWorld: Bringing up level for play took: 0.002095
+[2021.04.12-06.36.22:090][ 47]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.04.12-06.36.22:091][ 47]PIE: Server logged in
+[2021.04.12-06.36.22:092][ 47]PIE: Play in editor total start time 0.219 seconds.
+[2021.04.12-06.36.29:182][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.36.29:182][742]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.36.29:182][742]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.36.29:183][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.36.29:199][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.36.29:203][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.36.29:231][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.36.29:247][742]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C3E7C9FD80), frame # 228742
+[2021.04.12-06.36.29:247][742]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3AA8E9A00), frame # 228742
+[2021.04.12-06.36.29:250][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.04.12-06.36.29:309][743]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.04.12-06.36.30:502][844]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.36.30:513][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.36.30:513][844]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:36:30 am)
+[2021.04.12-06.36.30:541][844]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.36.30:552][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010636s)
+[2021.04.12-06.36.30:554][844]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.36.30:554][844]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3CC1D7E00), frame # 228844
+[2021.04.12-06.36.30:554][844]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C3E9A75F80), frame # 228844
+[2021.04.12-06.36.30:554][844]LogPlayLevel: PIE: World Init took: (0.002310s)
+[2021.04.12-06.36.30:554][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013156s)
+[2021.04.12-06.36.30:597][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.04.12-06.36.30:599][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.36.30:599][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.36.30:599][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.36.30:599][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.36.30:599][844]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.36.30:599][844]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.36.30:599][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.36.30:599][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.36.30:600][844]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.36.30:600][844]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.36.30:602][844]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.36.30:602][844]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.36.30:619][844]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.36.30:619][844]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.36.30:619][844]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.36.30:619][844]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.36.30:620][844]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.36.30:631][844]LogInit: FAudioDevice initialized.
+[2021.04.12-06.36.30:640][844]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.36.30:643][844]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.36.30
+[2021.04.12-06.36.30:643][844]LogWorld: Bringing up level for play took: 0.002294
+[2021.04.12-06.36.30:643][844]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.04.12-06.36.30:645][844]PIE: Server logged in
+[2021.04.12-06.36.30:645][844]PIE: Play in editor total start time 0.133 seconds.
+[2021.04.12-06.36.42:742][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.36.42:742][  6]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.36.42:742][  6]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.36.42:743][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.36.42:762][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.36.42:766][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.36.42:794][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.36.42:811][  6]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C3E9A75F80), frame # 230006
+[2021.04.12-06.36.42:811][  6]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3CC1D7E00), frame # 230006
+[2021.04.12-06.36.42:814][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.04.12-06.36.42:934][  7]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.04.12-06.38.00:696][401]LogSavePackage: Moving 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/SideScrollerCharacter560DAE1E472615FE67E1038996C81D2E.tmp' to 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.04.12-06.38.00:715][401]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.04.12-06.38.00:716][401]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.04.12-06.38.56:448][833]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.38.56:462][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.38.56:462][833]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:38:56 am)
+[2021.04.12-06.38.56:500][833]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.38.56:512][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012311s)
+[2021.04.12-06.38.56:514][833]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.38.56:514][833]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3B76BFC00), frame # 242833
+[2021.04.12-06.38.56:514][833]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C3A0ED4400), frame # 242833
+[2021.04.12-06.38.56:515][833]LogPlayLevel: PIE: World Init took: (0.002150s)
+[2021.04.12-06.38.56:515][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.014638s)
+[2021.04.12-06.38.56:555][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.04.12-06.38.56:556][833]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.38.56:556][833]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.38.56:556][833]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.38.56:556][833]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.38.56:556][833]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.38.56:556][833]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.38.56:556][833]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.38.56:556][833]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.38.56:557][833]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.38.56:557][833]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.38.56:559][833]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.38.56:559][833]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.38.56:578][833]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.38.56:579][833]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.38.56:579][833]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.38.56:579][833]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.38.56:579][833]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.38.56:589][833]LogInit: FAudioDevice initialized.
+[2021.04.12-06.38.56:596][833]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.38.56:599][833]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.38.56
+[2021.04.12-06.38.56:599][833]LogWorld: Bringing up level for play took: 0.002357
+[2021.04.12-06.38.56:599][833]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.04.12-06.38.56:601][833]PIE: Server logged in
+[2021.04.12-06.38.56:602][833]PIE: Play in editor total start time 0.14 seconds.
+[2021.04.12-06.39.01:359][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.39.01:360][276]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.39.01:360][276]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.39.01:360][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.39.01:382][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.39.01:386][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.39.01:428][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.39.01:429][276]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C3A0ED4400), frame # 243276
+[2021.04.12-06.39.01:429][276]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3B76BFC00), frame # 243276
+[2021.04.12-06.39.01:432][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.04.12-06.39.01:492][277]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.04.12-06.39.02:883][392]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.39.02:893][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.12-06.39.02:893][392]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:39:02 am)
+[2021.04.12-06.39.02:930][392]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.39.02:946][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016303s)
+[2021.04.12-06.39.02:949][392]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.39.02:949][392]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3D359FE00), frame # 243392
+[2021.04.12-06.39.02:949][392]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C3E6842C00), frame # 243392
+[2021.04.12-06.39.02:949][392]LogPlayLevel: PIE: World Init took: (0.003187s)
+[2021.04.12-06.39.02:949][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.019747s)
+[2021.04.12-06.39.03:006][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.04.12-06.39.03:008][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.39.03:008][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.39.03:008][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.39.03:008][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.39.03:008][392]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.39.03:008][392]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.39.03:008][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.39.03:008][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.39.03:009][392]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.39.03:009][392]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.39.03:011][392]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.39.03:011][392]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.39.03:030][392]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.39.03:030][392]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.39.03:030][392]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.39.03:030][392]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.39.03:031][392]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.39.03:042][392]LogInit: FAudioDevice initialized.
+[2021.04.12-06.39.03:052][392]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.39.03:055][392]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.39.03
+[2021.04.12-06.39.03:055][392]LogWorld: Bringing up level for play took: 0.002382
+[2021.04.12-06.39.03:055][392]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.04.12-06.39.03:057][392]PIE: Server logged in
+[2021.04.12-06.39.03:058][392]PIE: Play in editor total start time 0.165 seconds.
+[2021.04.12-06.39.07:910][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.39.07:910][855]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.39.07:911][855]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.39.07:911][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.39.07:942][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.39.07:947][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.39.07:981][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.39.07:996][855]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C3E6842C00), frame # 243855
+[2021.04.12-06.39.07:997][855]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3D359FE00), frame # 243855
+[2021.04.12-06.39.08:000][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.04.12-06.39.08:468][856]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.04.12-06.39.15:470][461]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.12-06.39.15:566][461]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.12-06.39.15:568][461]LogPlayLevel: [PlayLevel] Compiling SideScrollerCharacter before play...
+[2021.04.12-06.39.15:689][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.04.12-06.39.15:690][461]LogPlayLevel: PlayLevel: Blueprint regeneration took 123 ms (1 blueprints)
+[2021.04.12-06.39.15:690][461]PIE: New page: PIE session: SideScrollerExampleMap (13 Apr 2021, 2:39:15 am)
+[2021.04.12-06.39.15:690][461]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.39.15:701][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011072s)
+[2021.04.12-06.39.15:702][461]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2021.04.12-06.39.15:703][461]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C3E9D3E200), frame # 244461
+[2021.04.12-06.39.15:703][461]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C3A80ED940), frame # 244461
+[2021.04.12-06.39.15:703][461]LogPlayLevel: PIE: World Init took: (0.001834s)
+[2021.04.12-06.39.15:703][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013160s)
+[2021.04.12-06.39.15:744][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.04.12-06.39.15:746][461]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.12-06.39.15:746][461]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.12-06.39.15:746][461]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.12-06.39.15:746][461]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.12-06.39.15:746][461]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.12-06.39.15:746][461]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.12-06.39.15:746][461]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.12-06.39.15:746][461]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.12-06.39.15:746][461]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.12-06.39.15:746][461]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.12-06.39.15:748][461]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.12-06.39.15:748][461]LogAudioMixer: Display: 1: FrontRight
+[2021.04.12-06.39.15:766][461]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek High Definition Audio)
+[2021.04.12-06.39.15:766][461]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.12-06.39.15:766][461]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.12-06.39.15:766][461]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.12-06.39.15:767][461]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.12-06.39.15:777][461]LogInit: FAudioDevice initialized.
+[2021.04.12-06.39.15:785][461]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2021.04.12-06.39.15:787][461]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2021.04.12-16.39.15
+[2021.04.12-06.39.15:788][461]LogWorld: Bringing up level for play took: 0.002118
+[2021.04.12-06.39.15:788][461]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.04.12-06.39.15:789][461]PIE: Server logged in
+[2021.04.12-06.39.15:790][461]PIE: Play in editor total start time 0.226 seconds.
+[2021.04.12-06.39.28:041][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.39.28:041][605]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2021.04.12-06.39.28:041][605]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.12-06.39.28:041][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.39.28:060][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.12-06.39.28:064][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.12-06.39.28:091][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.12-06.39.28:106][605]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C3A80ED940), frame # 245605
+[2021.04.12-06.39.28:106][605]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C3E9D3E200), frame # 245605
+[2021.04.12-06.39.28:109][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.04.12-06.39.28:170][606]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.04.12-06.39.34:533][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.04.12-06.39.34:709][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.12-06.39.34:788][152]LogSavePackage: Moving 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/SideScrollerExampleMap621C40A1450756B6A8345BB75577E889.tmp' to 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.04.12-06.39.34:921][152]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.354
+[2021.04.12-06.39.35:309][152]LogSavePackage: Moving 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Saved/SideScrollerCharacterAC1108CF4FF589F1D0B052B11F6BEDA8.tmp' to 'E:/AIE-12.04.2021-Game/Multiplayer_Test/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.04.12-06.39.35:331][152]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.12-06.39.35:331][152]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.04.12-06.39.35:331][152]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
